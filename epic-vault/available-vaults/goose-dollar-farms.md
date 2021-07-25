@@ -1,4 +1,4 @@
-# Goose Dollar farms
+# EPIC Dollar farms
 
 ## Stable farms
 

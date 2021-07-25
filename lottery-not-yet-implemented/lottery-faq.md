@@ -4,9 +4,9 @@
 
 If no ticket is able to match all 4 numbers, 60% of the pot will be moved to the next lottery session.
 
-**Can I swap my tickets back to GOLDEN EGG?**
+**Can I swap my tickets back to EPIC?**
 
-No, once purchased you will not be able to convert your ticket back to Golden Egg.
+No, once purchased you will not be able to convert your ticket back to Epic.
 
 **How will I know if I have won?**
 

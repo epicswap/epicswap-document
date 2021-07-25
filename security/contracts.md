@@ -8,9 +8,9 @@
 * Layer 3 Chef: [https://bscscan.com/address/0xd8e3771f3e6a18f2647839D184B6A9b9aC87F63B\#code](https://bscscan.com/address/0xd8e3771f3e6a18f2647839D184B6A9b9aC87F63B#code)
 * Layer 4 Chef: [https://bscscan.com/address/0xf560E40f8BDd9B62b91F99FAA4bDa339B5075379](https://bscscan.com/address/0xf560E40f8BDd9B62b91F99FAA4bDa339B5075379)
 * Layer 5 Chef: [https://bscscan.com/address/0x16b0157c3908F777e389bfd6ad4AD0E7df12CF8A](https://bscscan.com/address/0x16b0157c3908F777e389bfd6ad4AD0E7df12CF8A)
-* Goose bank: [https://bscscan.com/address/0xb67764Dbc9551E00631Da0D36665cBa752823C74](https://bscscan.com/address/0xb67764Dbc9551E00631Da0D36665cBa752823C74)
+* EPIC bank: [https://bscscan.com/address/0xb67764Dbc9551E00631Da0D36665cBa752823C74](https://bscscan.com/address/0xb67764Dbc9551E00631Da0D36665cBa752823C74)
 * Vault chef: [https://bscscan.com/address/0x3F648151f5D591718327aA27d2EE25edF1b435D8](https://bscscan.com/address/0x3F648151f5D591718327aA27d2EE25edF1b435D8)
-* Goose dollar chef: [https://bscscan.com/address/0xf4ceF6F476fAEB4ddDD262CBd8569Ee6F99407dE](https://bscscan.com/address/0xf4ceF6F476fAEB4ddDD262CBd8569Ee6F99407dE)
-* Goose Dollar token ****address**:** 0x5bfE81fCB3708C8fC733BEf60d313CAFCe1FeBEB
-* Goose Dollar Bond token address: 0x831B85B2c6E55344d6b17C9d67eA83771b0A9C8e
+* Epic dollar chef: [https://bscscan.com/address/0xf4ceF6F476fAEB4ddDD262CBd8569Ee6F99407dE](https://bscscan.com/address/0xf4ceF6F476fAEB4ddDD262CBd8569Ee6F99407dE)
+* Epic Dollar token ****address**:** 0x5bfE81fCB3708C8fC733BEf60d313CAFCe1FeBEB
+* Epic Dollar Bond token address: 0x831B85B2c6E55344d6b17C9d67eA83771b0A9C8e
 

@@ -2,32 +2,30 @@
 
 
 
-Layered farming is a perpetual farming tool to allow Goosers to constantly enjoy a high-risk high-reward APY yield farming. Imagine a new xxxxswap site but hosted on Goose Finance where you can ape your money into it with no rugpull, no dumping, no hidden pool! The value of GGX will disappear throughout the course of its life, it is not meant to be held for a long term.
+Layered farming is a perpetual farming tool to allow EPIC users to constantly enjoy a high-risk high-reward APY yield farming. Imagine a new xxxxswap site but hosted on Epic Finance where you can ape your money into it with no rugpull, no dumping, no hidden pool! The value of EPIC will disappear throughout the course of its life, it is not meant to be held for a long term.
 
-To learn more about Layered farming: [https://youtu.be/LBmt48VPxOM](https://youtu.be/LBmt48VPxOM)
+A new token, Epic, EPIC \(x represents the layer number\), will be created every 7 days.   
+**ex. Layer 1 = EPIC 1, Layer 5 = EPIC 5**
 
-A new token, Golden Goose X, GGX \(x represents the layer number\), will be created every 7 days.   
-**ex. Layer 1 = GG1, Layer 5 = GG5**
-
-This mechanism is also trying to reduce the supply and create deflationary pressure on our major token $Egg.
+This mechanism is also trying to reduce the supply and create deflationary pressure on our major token $EPIC.
 
 **Tokenomics:**
 
-* **Each layer will be supplied with a liquidity of 100,000 USD in BUSD and BNB each \(total 200,000\), with 20,000 GGX**
-* The starting price of GGX will be **$10**
-* **Maximum Supply: 1,000,000 GGX per layer \(Roughly 30 days\)**
-* **All layers will never close until further notice \(just so people don't need to scroll through 50 layers\). Farms will stop minting GGX when the maximum supply has reached.**
-* 1 GGX produce every block
-* 28800 GGX per day
+* **Each layer will be supplied with a liquidity of 100,000 USD in BUSD and BNB each \(total 200,000\), with 20,000 EPIC**
+* The starting price of EPIC will be **$10**
+* **Maximum Supply: 1,000,000 EPIC per layer \(Roughly 30 days\)**
+* **All layers will never close until further notice \(just so people don't need to scroll through 50 layers\). Farms will stop minting EPIC when the maximum supply has reached.**
+* 1 EPIC produce every block
+* 28800 EPIC per day
 * 9.09% will be sent to the developer’s address and burnt/do nothing \(as we may require to provide additional liquidity or any action required with the token itself\)
 
 **The Layered Farming consist of 3 parts**
 
-1\) Incubator - Staking eggs or GG\(X-1\) to get GGX \(also burning the eggs in the deposit fee\)
+1\) Incubator - Staking Epics or EPIC\(X-1\) to get EPIC \(also burning the eggs in the deposit fee\)
 
-2\) Goose Farm - Staking GGX-BUSD / GGX-BNB / Tokens to get GGX
+2\) Epic Farm - Staking EPIC-BUSD / EPIC-BNB / Tokens to get EPIC
 
-3\) Goose House - Staking GGX to get BUSD
+3\) Epic House - Staking EPIC to get BUSD
 
 
 
