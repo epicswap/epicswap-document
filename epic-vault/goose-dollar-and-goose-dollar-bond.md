@@ -21,5 +21,5 @@ Epic Dollar Bond can be purchased at $1 and sold at $0.9. The price may increase
 **Token address:** 0x831B85B2c6E55344d6b17C9d67eA83771b0A9C8e[    
 ](https://goosedefi.gitbook.io/goose-finance/goose-vault/vaults)
 
-![](https://gblobscdn.gitbook.com/assets%2F-MT5Nug3dG0o_JI3n0I1%2F-MYK2YTxJe3AVno0VI9K%2F-MYK30jYZy8liKxunJLx%2Fimage.png?alt=media&token=ee8db9c6-35da-4e5a-9ad8-011fb9d677ac)
+![](../.gitbook/assets/image-1-.png)
 

@@ -1,6 +1,6 @@
 # Incubator
 
-![](https://documents.lucid.app/documents/1ea823a2-dd98-4239-8613-b2d41a8d3d65/pages/0_0?a=911&x=1971&y=27&w=640&h=1174&store=1&accept=image%2F*&auth=LCA%20f31799b32efc8b586a455ac9b452725c9951206c-ts%3D1614838476)
+![](../.gitbook/assets/image-2-1-.png)
 
 The incubator is used to burn Epics while creating EPICs. There are 3 kinds of incubators at the moment.
 
