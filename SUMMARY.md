@@ -7,28 +7,28 @@
 
 * [EpicSwap Token\(EPIC\)](tokenomics/epicswap-token-epic.md)
 
-## EGG HOUSE
+## EPIC HOUSE
 
-* [Egg House](egg-house/egg-house.md)
+* [EPIC House](epic-house/egg-house.md)
 
-## GOOSE VAULT
+## EPIC VAULT
 
-* [Introduction](goose-vault/introduction.md)
-* [Vaults](goose-vault/vaults.md)
-* [Goose Dollar and Goose Dollar Bond](goose-vault/goose-dollar-and-goose-dollar-bond.md)
-* [Goose Dollar Farms](goose-vault/goose-dollar-farms.md)
-* [Available Vaults](goose-vault/available-vaults/README.md)
-  * [Main Vault](goose-vault/available-vaults/main-vault.md)
-  * [Goose Dollar farms](goose-vault/available-vaults/goose-dollar-farms.md)
-* [How to start auto-compounding?](goose-vault/how-to-start-auto-compounding/README.md)
-  * [Metamask: Add Binance Smart Chain \(BSC\) Network](goose-vault/how-to-start-auto-compounding/metamask-add-binance-smart-chain-bsc-network.md)
+* [Introduction](epic-vault/introduction.md)
+* [Vaults](epic-vault/vaults.md)
+* [Epic Dollar and Epic Dollar Bond](epic-vault/goose-dollar-and-goose-dollar-bond.md)
+* [Epic Dollar Farms](epic-vault/goose-dollar-farms.md)
+* [Available Vaults](epic-vault/available-vaults/README.md)
+  * [Main Vault](epic-vault/available-vaults/main-vault.md)
+  * [EPIC Dollar farms](epic-vault/available-vaults/goose-dollar-farms.md)
+* [How to start auto-compounding?](epic-vault/how-to-start-auto-compounding/README.md)
+  * [Metamask: Add Binance Smart Chain \(BSC\) Network](epic-vault/how-to-start-auto-compounding/metamask-add-binance-smart-chain-bsc-network.md)
 
 ## LAYERED FARMING
 
 * [Introduction](layered-farming/introduction.md)
 * [Incubator](layered-farming/incubator.md)
-* [Goose Farm](layered-farming/goose-farm.md)
-* [Goose House](layered-farming/goose-house.md)
+* [Epic Farm](layered-farming/goose-farm.md)
+* [Epic House](layered-farming/goose-house.md)
 * [Audit](layered-farming/audit.md)
 
 ## IFO \(INITIAL FARM OFFERING\)

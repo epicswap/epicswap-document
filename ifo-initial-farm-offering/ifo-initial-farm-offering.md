@@ -1,38 +1,38 @@
 ---
-description: Goose Finance's Launch Pad
+description: Epic Finance's Launch Pad
 ---
 
 # IFO \(Initial Farm Offering\)
 
 ## Intro <a id="intro"></a>
 
-Buy new tokens using EGG-BUSD LP tokens.
+Buy new tokens using Epic-BUSD LP tokens.
 
-The project gets the BUSD, Goose Finance burns the EGG. **You get the tokens.**
+The project gets the BUSD, Epic Finance burns the Epic. **You get the tokens.**
 
-1. **You will need EGG-BUSD LP tokens** to participate.
-2. **EGG tokens equating to half of the total funds raised will be burned forever**: For example the full $1,000,000 USD allocation is raised, then $500,000 of EGG tokens will be burned.
+1. **You will need Epic-BUSD LP tokens** to participate.
+2. **Epic tokens equating to half of the total funds raised will be burned forever**: For example the full $1,000,000 USD allocation is raised, then $500,000 of Epic tokens will be burned.
 3. All IFO involves risk. We did our due diligence but we cannot be 100% sure the team behind isn't malicious. Please do your own research and do not invest anything more than you are willing to lose
 
 ## **How to participate in an IFO** <a id="how-to-participate-in-an-ifo"></a>
 
 Before Sale:
 
-1. ​[Buy EGG](https://exchange.goosedefi.com/#/swap) and BUSD tokens
-2. ​[Get EGG-BUSD LP tokens](https://exchange.goosedefi.com/#/pool) by adding EGG and BUSD liquidity
+1. ​[Buy Epic](https://exchange.epicswap.io/#/swap) and BUSD tokens
+2. ​[Get Epic-BUSD LP tokens](https://exchange.epicswap.io/#/pool) by adding EGG and BUSD liquidity
 
 During Sale:
 
-1. While the sale is live, commit your EGG-BUSD LP tokens to buy the IFO tokens at [https://www.goosedefi.com/ifo](https://www.goosedefi.com/ifo)​
+1. While the sale is live, commit your EPIC-BUSD LP tokens to buy the IFO tokens at [https://www.epicswap.](https://www.epicswap.io/)io​
 
 After Sale:
 
 1. When the sale is complete, claim the IFO tokens you've bought. Your unspent funds will also be sent back to you.
-2. Done! In the case of an overflow you can unstake your remaining EGG-BUSD LP tokens.
+2. Done! In the case of an overflow you can unstake your remaining EPIC-BUSD LP tokens.
 
-If you decide to acquire EGG-BUSD LP tokens before the IFO starts, you can stake them in the [EGG-BUSD Farm](https://www.goosedefi.com/farms) to earn Egg token rewards while waiting for the sale.
+If you decide to acquire Epics-BUSD LP tokens before the IFO starts, you can stake them in the [EPIC-BUSD Farm](https://www.epicswap.io/code) to earn Epic token rewards while waiting for the sale.
 
-While you are holding EGG-BUSD LP tokens you will be at risk of [Impermanent Loss](https://academy.binance.com/en/articles/impermanent-loss-explained).
+While you are holding Epic-BUSD LP tokens you will be at risk of [Impermanent Loss](https://academy.binance.com/en/articles/impermanent-loss-explained).
 
 ## **What is the “Overflow” sale method?** <a id="overflow"></a>
 

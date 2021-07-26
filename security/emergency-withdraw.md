@@ -26,8 +26,8 @@ Goto 4. -&gt; enter the pool ID that you want to withdraw [https://bscscan.com/a
 
 | Pool ID | Tokens |
 | :--- | :--- |
-| 0 | BUSD-Egg |
-| 1 | BNB-Egg |
+| 0 | BUSD-Epic |
+| 1 | BNB-Epic |
 | 2 | BNB-BUSD |
 | 3 | USDT-BUSD |
 | 4 | BTCB-BNB |
@@ -38,7 +38,7 @@ Goto 4. -&gt; enter the pool ID that you want to withdraw [https://bscscan.com/a
 | 9 | DOT-BNB |
 | 10 | Cake-BUSD |
 | 11 | Cake-BNB |
-| 12 | Egg |
+| 12 | Epic |
 | 13 | BUSD |
 | 14 | BNB |
 | 15 | USDT |

@@ -2,10 +2,10 @@
 
 **Specifics:**
 
-* Lottery Ticket Fee for 1 ticket: 10 Golden Egg
+* Lottery Ticket Fee for 1 ticket: 10 Golden Epic
 * Single User Lottery Entry Limit: No limit
-* Paying for one ticket \(10 Golden Egg\) will give users a random 4 digit combination with each digit being between 1-14, for e.g. “1-9-3-2”
-* In the UI, users can choose to enter a multiple of 10 Golden Egg, which will buy them multiple tickets.
+* Paying for one ticket \(10 Golden Epic\) will give users a random 4 digit combination with each digit being between 1-14, for e.g. “1-9-3-2”
+* In the UI, users can choose to enter a multiple of 10 Epic, which will buy them multiple tickets.
 
 **​**
 
@@ -56,7 +56,7 @@ An example of a lottery session starting at 5 PM is below:
 
 * You have 1 hour to buy tickets.
 * The lottery jackpot will accumulate at the top of the page with each ticket bought.
-* Users will receive a ticket \(comprised of 4 digits\) for each 10 Golden Egg paid.
+* Users will receive a ticket \(comprised of 4 digits\) for each 10 Epic paid.
 
 **Phase 2 - Lottery Draw! \(10 PM\)**
 
@@ -76,7 +76,7 @@ The next lottery starts in 1 hour!
 The lottery aims to be completely random. Even though the ticket numbers given out are determined by a front-end logic, there is an extremely low chance that anyone is able to determine the 4 winning numbers ahead of time.
 
 * The 1st lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the number of participating users at the entry deadline.
-* The 2nd lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the total pooled Golden Egg balance at the entry deadline.
+* The 2nd lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the total pooled Epic balance at the entry deadline.
 * The 3rd lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the timestamp of the last lottery participant at the entry deadline.
 * The 4th lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the block difficulty at the entry deadline.
 
