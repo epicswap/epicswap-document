@@ -1,6 +1,6 @@
 # Epic Farm
 
-![](https://documents.lucid.app/documents/1ea823a2-dd98-4239-8613-b2d41a8d3d65/pages/0_0?a=943&x=2881&y=25&w=858&h=1220&store=1&accept=image%2F*&auth=LCA%20a910aa657eef3654ea5ece366570dbc3859f24d6-ts%3D1614838476)
+![](../.gitbook/assets/image-3-.png)
 
 Epic farm is similar to Code/Developing where you stake EPIC-BUSD/EPIC-BNB/Tokens to generate EPIC. There will be a deposit fee of 2% on non-EPIC pools. The transaction fee will be used as follows.
 

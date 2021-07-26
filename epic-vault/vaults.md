@@ -15,5 +15,5 @@ Users stake their corresponding Single token or LP token in our vault, and Epic 
 
 Apart from the rewards of the auto-compounding itself, we will also reward the user a Epic Dollar, **which is 1:1 Backed by BUSD**, instead of a platform token that constantly inflates in price. 
 
-![](../.gitbook/assets/image%20%283%29%20%281%29.png)
+![](../.gitbook/assets/image-2-.png)
 
