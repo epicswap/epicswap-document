@@ -43,7 +43,7 @@ Incubator 2:
 * 2% burn fee
 * 3x multiplier
 
-A community member Spy made a ROI calculator on the incubator. Feel free to make a copy and play around with the numbers. [https://docs.google.com/spreadsheets/d/1Q1MrzJbg3wBChDiK9lbQZtqjadzks8WfMOAtAIdoNuU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Q1MrzJbg3wBChDiK9lbQZtqjadzks8WfMOAtAIdoNuU/edit?usp=sharing)​[  
+A community member Spy made a ROI calculator on the incubator. Feel free to make a copy and play around with the numbers. [https://docs.google.com/spreadsheets/d/1Q1MrzJbg3wBChDiK9lbQZtqjadzks8WfMOAtAIdoNuU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Q1MrzJbg3wBChDiK9lbQZtqjadzks8WfMOAtAIdoNuU/edit?usp=sharing)​[    
 ](https://goosedefi.gitbook.io/goose-finance/layered-farming/introduction)
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MT5Nug3dG0o_JI3n0I1%2F-MUz9kaxG-WgfrMei24z%2F-MUz9stGizMam5FwZVCf%2Fimage.png?alt=media&token=219bfd6f-d758-4c87-adba-462fb9a473d3)

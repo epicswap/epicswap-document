@@ -26,13 +26,10 @@ Please note - in the event that no participants were able to match 3 numbers on 
 
 For example, if the final 4 winning numbers are “1-9-3-2”:
 
-- “1-9-3-2” = match all 4
-
-- “1-9-2-2” = match 3
-
-- “2-3-3-2” = match 2
-
-- “1-2-1-2” = match 2
+* “1-9-3-2” = match all 4
+* “1-9-2-2” = match 3
+* “2-3-3-2” = match 2
+* “1-2-1-2” = match 2
 
 ​
 

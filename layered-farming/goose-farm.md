@@ -15,7 +15,7 @@ Epic farm is similar to Code/Developing where you stake EPIC-BUSD/EPIC-BNB/Token
   * \(0.4%\) 20% will automatically buyback Epics and burnt
   * \(0.2%\) 10% will be sent to the developer address
 
-[  
+[    
 ](https://goosedefi.gitbook.io/goose-finance/layered-farming/incubator)
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MT5Nug3dG0o_JI3n0I1%2F-MUz9kaxG-WgfrMei24z%2F-MUzA05Idr_Tzpv0gPjd%2Fimage.png?alt=media&token=a6d3a321-293b-435a-998a-502b9c3b9443)

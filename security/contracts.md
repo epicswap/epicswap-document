@@ -11,6 +11,6 @@
 * EPIC bank: [https://bscscan.com/address/0xb67764Dbc9551E00631Da0D36665cBa752823C74](https://bscscan.com/address/0xb67764Dbc9551E00631Da0D36665cBa752823C74)
 * Vault chef: [https://bscscan.com/address/0x3F648151f5D591718327aA27d2EE25edF1b435D8](https://bscscan.com/address/0x3F648151f5D591718327aA27d2EE25edF1b435D8)
 * Epic dollar chef: [https://bscscan.com/address/0xf4ceF6F476fAEB4ddDD262CBd8569Ee6F99407dE](https://bscscan.com/address/0xf4ceF6F476fAEB4ddDD262CBd8569Ee6F99407dE)
-* Epic Dollar token ****address**:** 0x5bfE81fCB3708C8fC733BEf60d313CAFCe1FeBEB
+* Epic Dollar token **\*\*address**:\*\* 0x5bfE81fCB3708C8fC733BEf60d313CAFCe1FeBEB
 * Epic Dollar Bond token address: 0x831B85B2c6E55344d6b17C9d67eA83771b0A9C8e
 

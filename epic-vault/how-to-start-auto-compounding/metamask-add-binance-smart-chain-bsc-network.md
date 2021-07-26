@@ -25,11 +25,11 @@ MetaMask Custom Networks
 * Testnet
   * * ChainID: 0x61, 97 in decimal \(if 97 doesn’t work, try 0x61\)
   * Symbol: BNB
-  * Block Explorer: https://testnet.bscscan.com
+  * Block Explorer: [https://testnet.bscscan.com](https://testnet.bscscan.com)
 * Mainnet
   * * ChainID: 0x38, 56 in decimal \(if 56 doesn’t work, try 0x38\)
   * Symbol: BNB
-  * Block Explorer: https://bscscan.com
+  * Block Explorer: [https://bscscan.com](https://bscscan.com)
 
 For more information on how to use MetaMask with Binance Smart Chain \(BSC\), you can check it out [here](https://docs.binance.org/smart-chain/wallet/metamask.html).
 

@@ -1,10 +1,8 @@
 # Introduction
 
-
-
 Layered farming is a perpetual farming tool to allow EPIC users to constantly enjoy a high-risk high-reward APY yield farming. Imagine a new xxxxswap site but hosted on Epic Finance where you can ape your money into it with no rugpull, no dumping, no hidden pool! The value of EPIC will disappear throughout the course of its life, it is not meant to be held for a long term.
 
-A new token, Epic, EPIC \(x represents the layer number\), will be created every 7 days.   
+A new token, Epic, EPIC \(x represents the layer number\), will be created every 7 days.  
 **ex. Layer 1 = EPIC 1, Layer 5 = EPIC 5**
 
 This mechanism is also trying to reduce the supply and create deflationary pressure on our major token $EPIC.
@@ -26,8 +24,6 @@ This mechanism is also trying to reduce the supply and create deflationary press
 2\) Epic Farm - Staking EPIC-BUSD / EPIC-BNB / Tokens to get EPIC
 
 3\) Epic House - Staking EPIC to get BUSD
-
-
 
 **Deposit Fee**
 

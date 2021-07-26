@@ -12,5 +12,3 @@ What makes Epic Vault different from other platforms is that we do not print a n
 
 Users can also buy Epic Dollar Bond which is 1 BUSD, which is used to mint more Epic Dollar and share the profit generated from the Epic Dollar and the main vault.
 
-
-

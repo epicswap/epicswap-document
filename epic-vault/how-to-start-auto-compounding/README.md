@@ -2,5 +2,3 @@
 
 {% page-ref page="metamask-add-binance-smart-chain-bsc-network.md" %}
 
-
-

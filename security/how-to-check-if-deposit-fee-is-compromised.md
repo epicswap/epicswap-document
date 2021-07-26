@@ -20,7 +20,5 @@ Procedure to check:
 
 5\) check if the depositFEEBP is correct \(400 = 4%, 10000 = 100%\)
 
-
-
 ![](https://gblobscdn.gitbook.com/assets%2F-MT5Nug3dG0o_JI3n0I1%2F-MTJvlXymK3_pg96l7Pa%2F-MTJx2kqRp6YTYrdC16n%2Fimage.png?alt=media&token=a44b496e-354e-40ef-9ec7-f6a7c9265f1c)
 
