@@ -1,4 +1,4 @@
-# How to start farming with eggs
+# How to start farming with epic
 
 1\) Head over to [https://exchange.goosedefi.com/\#/swap](https://exchange.goosedefi.com/#/swap) \(you can also do it on pancake swap by pasting the token address 0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6\)
 

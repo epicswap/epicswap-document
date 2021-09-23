@@ -8,7 +8,6 @@
 
 * [ ] **Algorithmic Pegged Coin**. More information will be released when the tech is nearly complete to prevent people from stealing the idea. \(Using EPIC to farm it\)
 * [ ] Burning Mechanism: **Lottery**
-* [ ] **GGX Sharding**. Input a batch of 100 GGX of any layer -&gt; output 70 GGX of any layer, 30% of input will be burnt
 * [ ] NFT related system
 * [ ] Building selling and buying A/R bonds based on NFT & Blockchain
 

@@ -2,15 +2,13 @@
 
 **PREVIOUSLY STAKED FUNDS are not affected**
 
-**FEE CHANGE IS BEHIND THE TIMELOCK CONTRACT**
-
 Our system requires users to deposit a fee when staking, therefore it is possible for the chef to edit the deposit fee to 100%, therefore taking 100% of NEW USER STAKING.
 
 Procedure to check:
 
 1\) Please head to our master chef contract site on BSC
 
-​[https://bscscan.com/address/0xe70E9185F5ea7Ba3C5d63705784D8563017f2E57\#readContract](https://bscscan.com/address/0xe70E9185F5ea7Ba3C5d63705784D8563017f2E57#readContract)​
+​[https://bscscan.com/address/\#readContract](https://bscscan.com/address/#readContract)​
 
 2\) scroll down to 9. poolInfo
 

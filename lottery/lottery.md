@@ -2,9 +2,9 @@
 
 **Specifics:**
 
-* Lottery Ticket Fee for 1 ticket: 10 Golden Epic
+* Lottery Ticket Fee for 1 ticket: 10  Epic
 * Single User Lottery Entry Limit: No limit
-* Paying for one ticket \(10 Golden Epic\) will give users a random 4 digit combination with each digit being between 1-14, for e.g. “1-9-3-2”
+* Paying for one ticket \(10 Epic\) will give users a random 4 digit combination with each digit being between 1-14, for e.g. “1-9-3-2”
 * In the UI, users can choose to enter a multiple of 10 Epic, which will buy them multiple tickets.
 
 **​**
