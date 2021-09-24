@@ -14,7 +14,6 @@ What we are trying to do is create a perpetual deflation token, the EPIC, that a
 
 **Security**
 
-* Timelock added to contract at launch
 * Removed migrator code \(inherited from Pancake swap\)
 
 **Farming**
