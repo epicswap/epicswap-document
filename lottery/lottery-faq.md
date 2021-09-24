@@ -24,7 +24,6 @@ Each full lottery session will run for 6 hours.
 
 The ducks at the bottom of the page.
 
-  
 **Are all ticket numbers unique?**
 
 There are a total of 38,416 different ticket combinations. This may be adjusted later based on the number of participants.

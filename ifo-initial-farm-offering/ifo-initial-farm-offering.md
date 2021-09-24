@@ -56,6 +56,6 @@ Launch your project with Goose Finance, Binance Smart Chain’s \#3 project and 
 
 ## How about the liquidity? <a id="how-about-the-liquidity"></a>
 
-20% of the raised fund will be used to provide liquidity and locked for 1 month after the IFO. The amount will be ejected back to the other party by interacting with our contract.[  
+20% of the raised fund will be used to provide liquidity and locked for 1 month after the IFO. The amount will be ejected back to the other party by interacting with our contract.[    
 ](https://goosedefi.gitbook.io/goose-finance/layered-farming/audit)
 

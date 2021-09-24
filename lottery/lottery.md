@@ -2,9 +2,9 @@
 
 **Specifics:**
 
-* Lottery Ticket Fee for 1 ticket: 10 Golden Epic
+* Lottery Ticket Fee for 1 ticket: 10  Epic
 * Single User Lottery Entry Limit: No limit
-* Paying for one ticket \(10 Golden Epic\) will give users a random 4 digit combination with each digit being between 1-14, for e.g. “1-9-3-2”
+* Paying for one ticket \(10 Epic\) will give users a random 4 digit combination with each digit being between 1-14, for e.g. “1-9-3-2”
 * In the UI, users can choose to enter a multiple of 10 Epic, which will buy them multiple tickets.
 
 **​**
@@ -26,13 +26,10 @@ Please note - in the event that no participants were able to match 3 numbers on 
 
 For example, if the final 4 winning numbers are “1-9-3-2”:
 
-- “1-9-3-2” = match all 4
-
-- “1-9-2-2” = match 3
-
-- “2-3-3-2” = match 2
-
-- “1-2-1-2” = match 2
+* “1-9-3-2” = match all 4
+* “1-9-2-2” = match 3
+* “2-3-3-2” = match 2
+* “1-2-1-2” = match 2
 
 ​
 

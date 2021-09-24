@@ -1,16 +1,14 @@
 # Emergency Withdraw
 
+If something happened to the front-end \(DDOS\) or any issue.
 
+You can firstly
 
-If something happened to the front-end \(DDOS\) or any issue. 
+1\) Find the poolID of the pool you have staked.
 
-You can firstly 
+Goto 9. poolInfo and type 0 to 23 \(the actual list is at the bottom\)
 
-1\) Find the poolID of the pool you have staked. 
-
-Goto 9. poolInfo and type 0 to 23 \(the actual list is at the bottom\) 
-
-[https://bscscan.com/address/0xe70E9185F5ea7Ba3C5d63705784D8563017f2E57\#readContract](https://bscscan.com/address/0xe70E9185F5ea7Ba3C5d63705784D8563017f2E57#readContract)
+[https://bscscan.com/address/\#readContract](https://bscscan.com/address/#readContract)
 
 2\) Click onto the LP Address
 
@@ -18,11 +16,9 @@ Goto 9. poolInfo and type 0 to 23 \(the actual list is at the bottom\)
 
 4\) Double check the LP is it the one you are looking for
 
-4\) Do an emergency withdrawal \(Connect to Web3\) 
+4\) Do an emergency withdrawal \(Connect to Web3\)
 
-Goto 4. -&gt; enter the pool ID that you want to withdraw [https://bscscan.com/address/0xe70E9185F5ea7Ba3C5d63705784D8563017f2E57\#writeContract](https://bscscan.com/address/0xe70E9185F5ea7Ba3C5d63705784D8563017f2E57#writeContract)
-
-
+Goto 4. -&gt; enter the pool ID that you want to withdraw [https://bscscan.com/address/\#writeContract](https://bscscan.com/address/#writeContract)
 
 | Pool ID | Tokens |
 | :--- | :--- |
