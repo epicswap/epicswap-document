@@ -1,25 +1,36 @@
 # Roadmap
 
-## **High Priority**
+## **Cross Chain Services**
 
-* [ ] **EPIC Exchange** \(AMM like pancake swap\)
+* [x] Binance Smart Chain
+* [ ] Ethereum Mainnet
+* [ ] Huobi Eco Chain
+* [ ] Fantom Network
+* [ ] Avalanche
+* [ ] Polygon 
 
-## **Medium Priority**
+## **Yield Farming**
 
-* [ ] **Algorithmic Pegged Coin**. More information will be released when the tech is nearly complete to prevent people from stealing the idea. \(Using EPIC to farm it\)
+* [x] Add Farming & Staking pools (verified)
+* [x] Lottery Dapp 
+* [ ] Listing (CMC, CoinGecko, DappRadar, etc.)
+* [x] Initial Farm Offering (IFO)
+* [x] Reward system (EPIC Token)
+* [ ] Marketing activities
+* [ ] Auditing by TechRate
 * [ ] Burning Mechanism: **Lottery**
 * [ ] NFT related system
 * [ ] Building selling and buying A/R bonds based on NFT & Blockchain
 
-## **Low priority**
-
-* [ ] **Front-end rebranding**
-* [ ] **Leveraged-farming \(using Alpha Homora's model\)**
-
 **Completed**
 
-* [x] **Auditing**
-* [x] **Burning Mechanism: Layered farming - THE INCUBATOR**  To know more about Incubator: COMING SOON
+* [x] Automatic Market Maker to Pancake Router V2
+* [x] EPIC-LP Tokens (Deploy)
 * [x] **EPIC IFO** \(work with other projects\)
-* [x] **EPIC Vault** \(auto-compounding other farms\).
+* [x] **EPIC Lottery** \(work with other projects\)
+* [x] **EPIC Exchange** \(AMM like pancake swap\)
+* [x] **EPIC farming**
+
+
+
 
