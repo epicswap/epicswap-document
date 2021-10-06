@@ -20,9 +20,7 @@ If you don’t match all 4, no need to worry. As long as you match 2 or more num
 * Match all 4 numbers in the exact order = win 50% of the pot \(or split the pot if more than 1 winner\).
 * Match 3 numbers in the exact order = win or split 20% of the pot.
 * Match 2 numbers in the exact order = win or split 10% of the pot.
-* Burn the remaining 20% of the pot.
-
-Please note - in the event that no participants were able to match 3 numbers on any draw, the 20% allocated to winners will then be burned accordingly.
+* Fee 0 ~ 20% of the pot.
 
 For example, if the final 4 winning numbers are “1-9-3-2”:
 
@@ -31,38 +29,27 @@ For example, if the final 4 winning numbers are “1-9-3-2”:
 * “2-3-3-2” = match 2
 * “1-2-1-2” = match 2
 
-​
+​Please note - The current state appears in the top headline
+
 
 **Lottery phases:**
 
-Each full lottery session is completed every 6 hours \(4 per day\), with the timings for each as below:
+* Each session will be announced by the game master.
 
-5 AM - 11 AM \(SGT\)
+**Phase 1 - Buy Tickets**
 
-11 AM - 5 PM \(SGT\)
-
-5 PM -
-
-11 PM \(SGT\) -
-
-11 PM - 5 AM \(SGT\)
-
-An example of a lottery session starting at 5 PM is below:
-
-**Phase 1 - Buy Tickets \(5 PM to 10 PM\)**
-
-* You have 1 hour to buy tickets.
+* You can buy tickets.
 * The lottery jackpot will accumulate at the top of the page with each ticket bought.
 * Users will receive a ticket \(comprised of 4 digits\) for each 10 Epic paid.
 
-**Phase 2 - Lottery Draw! \(10 PM\)**
+**Phase 2 - Lottery Draw**
 
 * The 4 winning lottery numbers are drawn and will appear on the page.
 * Each participant’s winnings will be automatically calculated based on their ticket numbers and shown on the page.
 * Users can claim winnings if they have any.
 * Users will also be able to see the lottery results: How many users matched all 4 numbers, 3 numbers and 2 numbers.
 
-**Phase 3 - Celebration and Sharing \(10 PM - 11PM\)**
+**Phase 3 - Celebration and Sharing time**
 
 If you won, congrats! Share with your friends or in our community groups.
 

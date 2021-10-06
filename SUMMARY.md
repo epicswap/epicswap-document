@@ -13,8 +13,8 @@
 
 ## LOTTERY
 
-* [Lottery](lottery-not-yet-implemented/lottery.md)
-* [Lottery FAQ](lottery-not-yet-implemented/lottery-faq.md)
+* [Lottery](lottery/lottery.md)
+* [Lottery FAQ](lottery/lottery-faq.md)
 
 ## SECURITY
 
