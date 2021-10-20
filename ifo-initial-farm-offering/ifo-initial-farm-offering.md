@@ -19,7 +19,7 @@ The project gets the BUSD, Epic Finance burns the Epic. **You get the tokens.**
 Before Sale:
 
 1. ​[Buy Epic](https://exchange.epicswap.io/#/swap) and BUSD tokens
-2. ​[Get Epic-BUSD LP tokens](https://exchange.epicswap.io/#/pool) by adding EGG and BUSD liquidity
+2. ​[Get Epic-BUSD LP tokens](https://exchange.epicswap.io/#/pool) by adding EPIC and BUSD liquidity
 
 During Sale:
 
@@ -40,9 +40,7 @@ TLDR: Basically, the more you put in, the more you will get, and you’ll get ba
 
 In the “Overflow” method, users can subscribe as much or as little as they want to the IFO, and their final allocation will be based on the amount of funds they put in as a percentage of all funds put in by other users at the time the sale ends. Users will receive back any leftover funds when they claim their tokens after the sale.
 
-It's possible to receive no tokens at all: If you commit a very small amount of LP tokens compared to the total amount committed by others, your contribution may be such a small part of the total that you may not qualify for even a small portion of the tokens sold. In such a case, you will still be able to reclaim all the EGG-BUSD LP tokens you committed.
-
-![](https://gblobscdn.gitbook.com/assets%2F-MT5Nug3dG0o_JI3n0I1%2F-MWHbU4P83FzWaEInx6e%2F-MWHbXAJGpf82M8FtLqF%2Fimage.png?alt=media&token=61dc876a-0b84-4c4f-9f9d-6914b9c81759)
+It's possible to receive no tokens at all: If you commit a very small amount of LP tokens compared to the total amount committed by others, your contribution may be such a small part of the total that you may not qualify for even a small portion of the tokens sold. In such a case, you will still be able to reclaim all the EPIC-BUSD LP tokens you committed.
 
 ## What happens if the IFO doesn't raise all the funds targeted? <a id="what-happens-if-the-ifo-doesnt-raise-all-the-funds-targeted"></a>
 
@@ -50,12 +48,6 @@ The sale will proceed as normal, and all funds contributed will be spent.
 
 ## Want to launch your own IFO? <a id="want-to-launch-your-own-ifo"></a>
 
-Launch your project with Goose Finance, Binance Smart Chain’s \#3 project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC.
+Launch your project with EPIC swap, Binance Smart Chain’s \#3 project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC.
 
-**​**[**Apply to launch**](https://docs.google.com/forms/d/e/1FAIpQLSe7ycrw8Dq4C5Vjc9WNlRtTxEhFDB1Ny6jlAByZ2Y6qBo7SKg/viewform?usp=sf_link)​
-
-## How about the liquidity? <a id="how-about-the-liquidity"></a>
-
-20% of the raised fund will be used to provide liquidity and locked for 1 month after the IFO. The amount will be ejected back to the other party by interacting with our contract.[    
-](https://goosedefi.gitbook.io/goose-finance/layered-farming/audit)
-
+**​**[**Apply to launch**](https://docs.google.com/forms/d/e/)​
